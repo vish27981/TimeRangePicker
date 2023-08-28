@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GithubUses</string>
+    <string name="home">home\n</string>
+    <string name="alarm">alarm</string>
+    <string name="cart">cart</string>
+</resources>
